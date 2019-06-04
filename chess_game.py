@@ -1,12 +1,15 @@
-""" practice my skills
-
-    Chess game!
+"""
+    it's just chess.
 """
 
 import numpy as np
 import sys
 import time
 import os
+
+
+__author__ = 'Cleve Green'
+__version__ = 0.1
 
 
 def setup_board():
